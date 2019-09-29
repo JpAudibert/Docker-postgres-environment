@@ -1,2 +1,4 @@
 # Docker-postgres-environment
-A PgAdmin and Docker Environment made with Docker Compose.
+A PgAdmin and Postgres environment for my database classes. 
+The main purpose was trying to learn a little bit of Docker-compose 
+and stop installing everything in my local machine
